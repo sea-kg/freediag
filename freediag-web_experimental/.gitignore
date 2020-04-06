@@ -1,0 +1,4 @@
+.wsjcpp
+freediag-web
+tmp/*
+.logs/*
